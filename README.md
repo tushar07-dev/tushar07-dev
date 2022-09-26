@@ -7,19 +7,16 @@ During my leisure times, I love to travel and explore places and travel</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-
-<hr/>
-<a href="https://tushar-portfolio-06.netlify.app/" target="blank"> <h2>PORTFOLIO</h2> </a>
-<a href="https://drive.google.com/file/d/1d6Lj8hjiSdBslj81odgwvvtviPa8Qt02/view?usp=sharing" target="blank"> <h2>MY RESUME</h2> </a>
-
-<hr/>
 **PROJECTS**
 
 - 🌱 I’m currently learning **React & Express**
 
 - 📫 How to reach me **shelketushar100@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/16dzSfpp5BcCo-zRt8rTvSFYxQLsL79Fw/view?usp=sharing](https://drive.google.com/file/d/16dzSfpp5BcCo-zRt8rTvSFYxQLsL79Fw/view?usp=sharing)
+- 📄 Know about my experiences by My <a href="https://tushar-portfolio-06.netlify.app/" target="blank">PORTFOLIO </a>
+
+- 📜 My <a href="https://drive.google.com/file/d/1d6Lj8hjiSdBslj81odgwvvtviPa8Qt02/view?usp=sharing" target="blank">RESUME </a>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
