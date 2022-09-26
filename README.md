@@ -5,9 +5,14 @@
 I am adaptable, efficient during remote collaboration, and am committed to achieving organizational goals. With a knack for analytics, I am passionate about solving algorithmic problems, and have a good grasp over data structures.
 During my leisure times, I love to travel and explore places and travel</h3>
 
-
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
+
+<hr/>
+<a href="https://tushar-portfolio-06.netlify.app/" target="blank"> <h2>PORTFOLIO</h2> </a>
+<a href="https://drive.google.com/file/d/1d6Lj8hjiSdBslj81odgwvvtviPa8Qt02/view?usp=sharing" target="blank"> <h2>MY RESUME</h2> </a>
+
+<hr/>
 **PROJECTS**
 
 - 🌱 I’m currently learning **React & Express**
