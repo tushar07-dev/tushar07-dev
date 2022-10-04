@@ -35,5 +35,5 @@ During my leisure times, I love to travel and explore places and travel</h3>
 <p>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tushar07-dev&show_icons=true&locale=en&layout=compact" alt="tushar07-dev" /></p>
 
- <a href="https://github.com/Hisam-94/github-readme-stats"><img alt="Hisamuddin Shaikh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Hisam-94&show_icons=true&count_private=true&theme=react&hide=issues,contribs&hide_border=true&bg_color=0D1117" height="150" /></a>
+ <a href="https://github.com/tushar07-dev/github-readme-stats"><img alt="Hisamuddin Shaikh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Hisam-94&show_icons=true&count_private=true&theme=react&hide=issues,contribs&hide_border=true&bg_color=0D1117" height="150" /></a>
  </div>
